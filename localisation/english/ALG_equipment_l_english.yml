@@ -6,9 +6,9 @@
  ALG_infantry_equipment_0_short:0 "MAS-36"
  ALG_infantry_equipment_0_desc:0 "The MAS-36 is a bolt action rifle designed in 1927 chambered in 7.62x54mm French cartridge, and was adopted by the French military in 1936 as a replacement for the Berthier and Lebel service rifles. It saw service during the Second World War in limited numbers, but due to mass production after the war ended it would see service in numerous conflicts by many different nations. Post WWII produced rifles saw some upgrades in terms of ergonomics. It even saw some variants that saw the addition of an attachable rifle grenade and a marksman model. She was expected to only be an interim rifle, built on machinery that could be used to build anticipated self-loading rifles"
 
- ALG_infantry_equipment_1:0 "Avtomat Kalashnikova 1947"
- ALG_infantry_equipment_1_short:0 "AK-47"
- ALG_infantry_equipment_1_desc:0 "The AK47 is a fully automatic assault rifle developed in the Soviet Union by Mikhail Kalashnikov in 1947, but was not introduced into active service until 1948 where the fixed-stock version was sent in for production. In early 1949, the AK47 was accepted by the Soviet Armed Forces for mass deployment into front-line units. With a long-stroke gas piston, a selector/safety, an automated trigger and chambering mechanism, and further improvements to overall design the AK47 was a vast upgrade to the SKS. The AK47 would, for many years, be considered to be one of the world's most reliable and easy to maintain, handle, and learn weapons in the world. "
+ ALG_infantry_equipment_1:0 "Автомат Калашникова 1947"
+ ALG_infantry_equipment_1_short:0 "АК-47"
+ ALG_infantry_equipment_1_desc:0 "АК-47 - це повністю автоматична штурмова гвинтівка, розроблена в Союзі Радянських Соціалістичних Республік Михайлом Калашниковим у 1947 році, але активно впроваджена в 1948 році, коли версія з фіксованим прикладом була направлена на виробництво. У початкових стадіях 1949 року АК-47 була прийнята на озброєння Збройних Сил СРСР для масового розгортання в передових підрозділах. Завдяки довгому поршню з газом, вибірковому / безпечному режиму, автоматизованому спусковому механізму і механізму набоювання, а також подальшому поліпшенню загальної конструкції, АК-47 була значним удосконаленням по відношенню до СКС. АК-47 протягом багатьох років вважалася одним з найнадійніших, легких у обслуговуванні, зручних у керуванні та навчанні зброєю в світі."
 
  ALG_infantry_equipment_2:0 "Avtomat Kalashnikova Modernizirovanniy"
  ALG_infantry_equipment_2_short:0 "AKM"
